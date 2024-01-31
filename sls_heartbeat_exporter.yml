@@ -1,0 +1,11 @@
+global:
+  port: ":9600"
+
+auth:
+  access_key:
+  secret_key:
+
+project:
+  cn-hangzhou:
+    - jtaf-hangzhou-hangyan-yewu
+    - jtaf-hangzhou-hangyan-dmp
